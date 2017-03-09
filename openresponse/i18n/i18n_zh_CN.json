@@ -1,18 +1,18 @@
 {
     "open_response": {
-        "value": "打开回复",
+        "value": "开放式问答",
         "description": "The text 'open response' in the page title"
     },
     "question": {
-        "value": "问题",
+        "value": "问题题目",
         "description": "The text 'question' in the step header, right above where the prompt/question is shown"
     },
     "your_response": {
-        "value": "你的回复",
+        "value": "你的回答",
         "description": "The text 'Your Response' right above the textbox where the student types in their response"
     },
     "save_changes": {
-        "value": "保存更改",
+        "value": "保存",
         "description": "The text 'SAVE CHANGES' on the button shown at the bottom of the step"
     },
     "save_and_close": {
